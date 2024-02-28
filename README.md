@@ -25,7 +25,7 @@ I'm a fisrt year Robotics MS student at the University of Michigan. I did my und
 ## 📫 How to Reach Me
 - [Email](mailto:jneyza@umich.edu)
 - [LinkedIn](https://www.linkedin.com/in/joseantonioe/)
-- [CV](https://drive.google.com/file/d/1pcUrYSae6bB9p_768dSzispY6cftNNnt/view?usp=sharing)
+- [CV](https://drive.google.com/file/d/1Oj1l2WX7ytvlvAxrHItkPd76vWbxMbpK/view?usp=sharing)
 
 <!--
 **jneyzaguirre1/jneyzaguirre1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
