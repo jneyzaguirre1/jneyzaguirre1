@@ -1,31 +1,46 @@
 # Hi there 👋
 
 ## About Me
-I'm a fisrt year Robotics MS student at the University of Michigan. I did my undergrad in Chile, majoring in Robotics and Electrical Engineering.
+I'm a passionate second-year Robotics MS student at the University of Michigan. I have a background in Robotics and Electrical Engineering, and I am dedicated to creating innovative robotic solutions that can bridge the gap between academic research and real-world applications.
 
-## 🔭 I'm currently working on:
-- [Soft-Bubble compliant contact gap bridge](https://github.com/jneyzaguirre1/Soft-bubble-sim2real): I am researching on generating soft-bubble visuo-tactile sensor outputs conditioned on simulated depth images, bridging the gap between simulation and real-world applications.
+## 🔭 I'm currently working at:
+- **[MMINT LAB](https://www.mmintlab.com/):**
+  - [Tactile Neural De-rendering](https://github.com/jneyzaguirre1/Soft-bubble-sim2real) Reconstructing local 3D representation of an object from its tactile signature by leveraging generative models.   
+- **[ROAHM LAB](https://www.roahmlab.com/):**
+  - Using language embedded Gaussian Splats for open-language manipulation.
 
 ## 🌱 Class projects
-- [ROB 550 Robotics Systems Laboratory](https://github.com/jneyzaguirre1/MBot_forklift): Multidisciplinary laboratory course with exposures to sensing, reasoning, and acting for physically-embodied systems. The class is divided in two labs through the semester: Armlab and Botlab.
+- [ROB 550 Robotics Systems Laboratory](https://github.com/jneyzaguirre1/MBot_forklift):
+  - *Summary*: Multidisciplinary laboratory course with exposures to sensing, reasoning, and acting for physically-embodied systems. The class is divided in two labs through the semester: Armlab and Botlab.
+- [ROB 599 Deep Learning for robotic perception](https://github.com/jneyzaguirre1/dino_evaluation):
+  - *Summary*: Deep Leaning class focused on robotics perception. This class' final project consist on reviewing, checking, and improving a recent paper, in my case "Emerging Properties in Self-Supervised Vision Transformers (DINO)".
 
 ## 🚀 Work experience
-- [Oddness Technologies](https://www.oddness.ai/): Hardware and Software Developer. Worked in the mechanical, electrical and firmware design of the company's robots. Part of the Picker-robot, Cumpa, and [Sierrabot](https://www.youtube.com/watch?v=xM8xKJk1jqE) projects.
-- [Monterey Bay Aquarium Research institude (MBARI)](https://www.mbari.org/): Seafloor Mapping Lab Intern. Worked in stereo camera calibrationfor 3D reconstructions and 2D mosaic generation.
-- [CoMPAS LAB](https://compas.ing.uc.cl/?page_id=667&lang=es): Designed and manufactured a budget flow microscope for phytoplankton analysis in order to mitigate the losses in the salmon industry. 
+- **[Oddness Technologies](https://www.oddness.ai/):**
+  - *Role*: Hardware and Software Developer
+  - *Projects*: Picker-robot, Cumpa, and [Sierrabot](https://www.youtube.com/watch?v=xM8xKJk1jqE).
+  - *Responsibilities*: Mechanical, electrical, and firmware design.
+- **[Monterey Bay Aquarium Research Institute (MBARI)](https://www.mbari.org/):**
+  - *Role*: Seafloor Mapping Lab Intern
+  - *Responsibilities*: Stereo camera calibration for 3D reconstructions and 2D mosaic generation.
+- **[CoMPAS LAB](https://compas.ing.uc.cl/?page_id=667&lang=es):**
+  - *Role*: Research engineer
+  - *Project*: Designed and manufactured a budget flow microscope for phytoplankton analysis to help mitigate losses in the salmon industry.
 
 ## 💻 Skills
-- Programming: Python, C/C++, Matlab, Linux
-- Frameworks: Numpy, OpenCV, Pytorch
-- CAD/CAE: Fusion 360, Inventor, Eagle.
-- Microcontrollers: TI MSP430, Atmel AtMega328, Arduinos.
-- FPGA: Verilog.
-- Manufacturing: 3D printing, Laser cut, Sheet metal, PCB design and assembly (SMT, THM)
+- **Programming Languages**: Python, C/C++, Matlab, Linux
+- **Frameworks**: Numpy, OpenCV, Pytorch
+- **CAD/CAE Tools**: Fusion 360, Inventor, Eagle
+- **Microcontrollers**: TI MSP430, Atmel AtMega328, Arduinos
+- **FPGA**: Verilog
+- **Manufacturing Skills**: 3D printing, Laser cut, Sheet metal, PCB design and assembly (SMT, THM)
 
 ## 📫 How to Reach Me
 - [Email](mailto:jneyza@umich.edu)
 - [LinkedIn](https://www.linkedin.com/in/joseantonioe/)
 - [CV](https://drive.google.com/file/d/1Oj1l2WX7ytvlvAxrHItkPd76vWbxMbpK/view?usp=sharing)
+
+Feel free to explore my repositories, send me a message, and connect with me on LinkeIn!
 
 <!--
 **jneyzaguirre1/jneyzaguirre1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
