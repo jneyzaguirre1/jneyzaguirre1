@@ -5,7 +5,7 @@ I'm a passionate second-year Robotics MS student at the University of Michigan. 
 
 ## 🔭 I'm currently working at:
 - **[MMINT LAB](https://www.mmintlab.com/):**
-  - [Tactile Neural De-rendering](https://github.com/jneyzaguirre1/Soft-bubble-sim2real) Reconstructing local 3D representation of an object from its tactile signature by leveraging generative models.   
+  - [Tactile Neural De-rendering](https://www.mmintlab.com/research/tactile-neural-derendering/) Reconstructing local 3D representation of an object from its tactile signature by leveraging generative models.   
 - **[ROAHM LAB](https://www.roahmlab.com/):**
   - Using language embedded Gaussian Splats for open-language manipulation.
 
