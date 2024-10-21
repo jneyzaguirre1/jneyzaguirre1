@@ -38,7 +38,7 @@ I'm a passionate second-year Robotics MS student at the University of Michigan. 
 ## 📫 How to Reach Me
 - [Email](mailto:jneyza@umich.edu)
 - [LinkedIn](https://www.linkedin.com/in/joseantonioe/)
-- [CV](https://drive.google.com/file/d/1Oj1l2WX7ytvlvAxrHItkPd76vWbxMbpK/view?usp=sharing)
+- [CV](https://drive.google.com/file/d/1l--pFfKOzzNFzApTYqMF11DP853ioGiu/view?usp=sharing)
 
 Feel free to explore my repositories, send me a message, and connect with me on LinkeIn!
 
