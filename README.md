@@ -4,10 +4,10 @@
 I'm a passionate second-year Robotics MS student at the University of Michigan. I have a background in Robotics and Electrical Engineering, and I am dedicated to creating innovative robotic solutions that can bridge the gap between academic research and real-world applications.
 
 ## 🔭 I'm currently working at:
-- **[MMINT LAB](https://www.mmintlab.com/):**
-  - [Tactile Neural De-rendering](https://www.mmintlab.com/research/tactile-neural-derendering/) Reconstructing local 3D representation of an object from its tactile signature by leveraging generative models.   
 - **[ROAHM LAB](https://www.roahmlab.com/):**
   - Using language embedded Gaussian Splats for open-language manipulation.
+- **[MMINT LAB](https://www.mmintlab.com/):**
+  - [Tactile Neural De-rendering](https://www.mmintlab.com/research/tactile-neural-derendering/) Reconstructing local 3D representation of an object from its tactile signature by leveraging generative models.   
 
 ## 🌱 Class projects
 - [ROB 550 Robotics Systems Laboratory](https://github.com/jneyzaguirre1/MBot_forklift):
